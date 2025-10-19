@@ -1,1 +1,1 @@
-# You just use python and numpy that you can run this project
+# JUST use Python and NumPy to run this project!
